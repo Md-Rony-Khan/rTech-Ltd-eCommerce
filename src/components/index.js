@@ -1,0 +1,21 @@
+export { default as Cart } from './Cart/Cart';
+export { default as Category } from './Category/Category';
+export { default as Checkout } from './CheckoutForm/Checkout/Checkout';
+export { default as ExchangePolicy } from './FooterPages/ExchangePolicy';
+export { default as Experience } from './FooterPages/Experience';
+export { default as HowToOrder } from './FooterPages/HowToOrder';
+export { default as OrderTracking } from './FooterPages/OrderTracking';
+export { default as PrivacyPolicy } from './FooterPages/PrivacyPolicy';
+export { default as ProceduresOfRefund } from './FooterPages/ProceduresOfRefund';
+export { default as TermsAndConditions } from './FooterPages/TermsAndConditions';
+export { default as WarrantyAndRefundPolicy } from './FooterPages/WarrantyAndRefundPolicy';
+export { default as Navbar } from './Navbar/Navbar';
+export { default as NewArrival } from './NewArrival/NewArrival';
+export { default as DetailedProduct } from './Products/DetailedProduct/DetailedProduct';
+export { default as Products } from './Products/Products';
+export { default as Recommended } from './Recommended/Recommended';
+export { default as SearchedProducts } from './SearchedProducts/SearchedProducts';
+export { default as Tabs } from './Tabs/Tabs';
+export { default as TopSelling } from './TopSelling/TopSelling';
+// eslint-disable-next-line prettier/prettier
+;
